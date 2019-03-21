@@ -1,0 +1,92 @@
+body {		
+	border: 20px solid #bdc3c7;	
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Source Sans Pro;
+	background-image: url("https://mybroadband.co.za/news/wp-content/uploads/2016/01/Programmer-working-computer-code.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-clip: content-box;
+	box-shadow: inset 0 0 0 1000px white;
+
+	
+}
+
+h3{
+	color: #3498db;
+	margin-left: 5%;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	
+}
+
+h2{
+	color: #2c3e50;
+	margin-left: 5%;
+	font-size: 2.0em;
+	
+}
+
+.quote{
+	border-left: 3px solid #bdc3c7;
+	padding-left: 5px;	
+	
+}
+
+
+p{	
+	margin-left: 5%;
+	text-align: left;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+ul {
+	margin-left: 5%;	
+
+}
+
+.HTML{
+	color: red;
+	font-size: 2.0em;
+}
+
+.HTML2{
+	color: blue;
+	font-size: 2.0em;
+}
+
+.CSS{
+	color: green;
+	font-style: italic;
+	
+}
+
+.CSS2{
+	color: purple;
+	font-weight: bold;
+	
+
+}
+
+.C#image{
+	display: inline-block;
+}
+
+.Cimage{
+	display: inline-block;
+}
+
+.Post1{
+	background-color: white;
+}
+
+.Post2{
+	background-color: white;
+}
